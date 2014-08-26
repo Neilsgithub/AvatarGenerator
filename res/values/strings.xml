@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="app_name">GenerateHeader</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="input_toast">请输入在头像上显示的数字（正数）：</string>
+    <string name="certain">确定</string>
+    <string name="ok">确定</string>
+    <string name="select">选择头像</string>
+    <string name="save_toast">文件已经保存到</string>
+    <string name="select_toast">请先选择头像！</string>
+</resources>
